@@ -1,1 +1,2 @@
-# Crowdfunding-ETL-Pipeline-Database-Creation
+# Crowdfunding_ETL
+Project 2 Repository
